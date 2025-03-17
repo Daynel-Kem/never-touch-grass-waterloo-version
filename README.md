@@ -1,2 +1,2 @@
-# never-touch-grass-waterloo-version
- It's just an application that gives you a path from one building to another in UWaterloo without needing to go outside
+# Waterloo Building Tunnels Application
+ It's a very simple app that allows you to travel from one building to another on Waterloo Campus without needing to go outside
